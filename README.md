@@ -1,4 +1,5 @@
 # public_transport
-Example dashboard using *Voilà* on *Binder*.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/susumu2357/public_transport.git/HEAD?urlpath=voila%2Frender%2Fdashboard.ipynb)
 
-[The deployed dashboard](https://hub.gke2.mybinder.org/user/susumu2357-public_transport-pxlhty0k/voila/render/dashboard.ipynb?token=jB9xmkuCTCiXshSLh_ZtbQ)
+Example dashboard using *Voilà* on *Binder*.
+To see the example, click the badge above.
